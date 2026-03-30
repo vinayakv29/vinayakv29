@@ -6,7 +6,7 @@ I am a first-year B.Tech student currently pursuing my degree in **Computer Scie
 ## Skills
 - **Programming:** Python, C Language
 - **Problem Solving:** Logical reasoning and algorithm basics
-- **Tools:** GitHub, VS Code
+- **Tools:** GitHub, VS Code, CLion, PyCharm
 
 ## Goals
 - Become a skilled software developer
