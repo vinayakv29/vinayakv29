@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vinayak Vishwkarma
 
-<!--
-**vinayakv29/vinayakv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a first-year B.Tech student currently pursuing my degree in **Computer Science and Engineering (CSE)** at **VIT Bhopal University**. I am passionate about exploring how technology can solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming:** Python, C Language
+- **Problem Solving:** Logical reasoning and algorithm basics
+- **Tools:** GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become a skilled software developer
+- Improve my coding and problem-solving skills
+- Build impactful real-world projects
+- Master advanced data structures
+
+## Currently Learning
+- **Python:** Strengthening my core programming and logic skills
+- **C Language:** Learning the fundamentals of systems programming
+- **Digital Literacy:** Improving my technical documentation and developer workflow
